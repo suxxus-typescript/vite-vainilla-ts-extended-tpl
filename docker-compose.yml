@@ -2,7 +2,7 @@ version: "0"
 name: vainilla-ts
 services:
   develop:
-    image: vainalla-ts/dev
+    image: vainilla-ts/dev
     build:
       context: .
       dockerfile: Dockerfile
